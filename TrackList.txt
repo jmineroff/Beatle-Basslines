@@ -1,0 +1,1689 @@
+PleasePleaseMe - Anna.mid
+... Drums
+... Bass
+... Vocals
+... Vocals2
+... Vocals3
+... Lead
+... Rhythm
+PleasePleaseMe - AskMeWhy.mid
+... Drums
+... Vocals
+... Bass
+... Lead
+... Rhythm
+PleasePleaseMe - Boys.mid
+... Drums
+... Vocals
+... Lead
+... Lead2
+... Rhythm
+... Bass
+... Vocals2
+... Vocals3
+... Vocals4
+... Vocals5
+PleasePleaseMe - Chains.mid
+... Drums
+... VocalsAll
+... Bass
+... Rhythm
+... Harmonica
+PleasePleaseMe - ISawHerStandingThere.mid
+... Bass
+... Rhythm
+... Vocals
+... Vocals2
+... Lead
+... Drums
+PleasePleaseMe - LoveMeDo.mid
+... Drums
+... Vocals
+... Vocals2
+... Harmonica
+... Rhythm
+... Bass
+PleasePleaseMe - Misery.mid
+... Drums
+... VocalsAll
+... Lead
+... Piano
+... Rhythm
+... Bass
+PleasePleaseMe - PleasePleaseMe.mid
+... Drums
+... Bass
+... VocalsAll
+... Harmonica
+... Lead
+... Vocals2
+... Vocals3
+... Vocals4
+... Vocals5
+... Rhythm
+PleasePleaseMe - PSILoveYou.mid
+... Drums
+... Vocals
+... Vocals2
+... Vocals2
+... LeadAll
+... Bass
+... Rhythm
+PleasePleaseMe - DoYouWantToKnowASecret.mid
+... Drums
+... Bass
+... Rhythm
+... Vocals
+... Vocals2
+... Vocals3
+... Vocals4
+... Vocals5
+... Lead
+PleasePleaseMe - ATasteOfHoney.mid
+... Bass
+... Vocals
+... Vocals2
+... Vocals3
+... Vocals4
+... Rhythm
+... Drums
+PleasePleaseMe - TheresAPlace.mid
+... Drums
+... Vocals
+... Vocals2
+... Bass
+... Harmonica
+... Lead
+... Rhythm
+... Vocals3
+PleasePleaseMe - TwistAndShout.mid
+... Drums
+... Vocals
+... Lead
+... Rhythm
+... Vocals2
+... Vocals3
+... Vocals4
+... Vocals5
+... Bass
+PleasePleaseMe - BabyItsYou.mid
+... Drums
+... Vocals
+... Vocals2
+... Vocals3
+... Vocals4
+... Vocals5
+... Lead
+... Rhythm
+... Bass
+AbbeyRoad - Because.mid
+... Brass
+... Bass
+... Vocals
+... Rhythm
+... Synth2
+... Synth
+AbbeyRoad - ComeTogether.mid
+... Bass
+... Lead
+... Rhythm
+... Vocals
+... Piano
+... Drums
+AbbeyRoad - HereComesTheSun.mid
+... Drums
+... Lead
+... Bass
+... Strings
+... Rhythm
+... Synth
+... Vocals
+... Vocals2
+... Vocals3
+AbbeyRoad - IWantYou.mid
+... Drums
+... Bass
+... Vocals
+... Rhythm
+... Lead
+... Organ
+AbbeyRoad - MaxwellsSilverHammer.mid
+... Piano
+... Bass
+... Vocals
+... Vocals2
+... Vocals3
+... Hammer
+... Brass
+... Lead
+... Drums
+AbbeyRoad - OctopussGarden.mid
+... Drums
+... Bass
+... Vocals
+... Vocals2
+... Vocals3
+... Piano
+... Lead
+... Vocals4
+... Vocals5
+... Vocals6
+... Vocals7
+... Rhythm
+AbbeyRoad - OhDarling.mid
+... Drums
+... Rhythm
+... Piano
+... Bass
+... Vocals
+... Vocals2
+... Vocals3
+... Vocals4
+AbbeyRoad - Something.mid
+... Drums
+... Bass
+... Lead
+... Organ
+... Rhythm
+... Vocals
+... Vocals2
+... Strings
+... Strings2
+... Strings3
+AbbeyRoad - HerMajesty.mid
+... Vocals
+... Rhythm
+AbbeyRoad - YouNeverGiveMeYourMoney.mid
+... Drums
+... Vocals
+... Lead2
+... Lead
+... Rhythm
+... Vocals2
+... Vocals3
+... Rhythm
+... Bass
+AbbeyRoad - AbbeyRoadMedley.mid
+... Drums
+... Brass
+... Vocals
+... Vocals
+... Lead
+... Lead
+... Vocals2
+... Vocals2
+... Rhythm
+... Bass
+... Bass
+... Strings
+BeatlesForSale - EightDaysAWeek.mid
+... Drums
+... VocalsAll
+... Rhythm
+... Lead
+... Bass
+BeatlesForSale - BabysInBlack.mid
+... Drums
+... Bass
+... Vocals
+... Vocals2
+... Lead
+... Rhythm
+BeatlesForSale - EverybodysTryingToBeMyBaby.mid
+... Drums
+... Bass
+... Vocals
+... Lead
+... Rhythm
+BeatlesForSale - EveryLittleThing.mid
+... Drums
+... Bass
+... Vocals
+... Vocals2
+... Lead
+... Piano
+... Rhythm
+BeatlesForSale - IllFollowTheSun.mid
+... VocalsAll
+... Rhythm
+... Bass
+... Lead
+... Drums
+BeatlesForSale - HoneyDont.mid
+... Drums
+... Rhythm
+... Bass
+... Lead
+... Vocals
+BeatlesForSale - ImALoser.mid
+... Drums
+... Vocals
+... Vocals2
+... Harmonica
+... Bass
+... Lead
+... Rhythm
+BeatlesForSale - KansasCityHeyHeyHeyHey.mid
+... Drums
+... Bass
+... Vocals
+... Vocals2
+... Lead
+... Rhythm
+... Piano
+BeatlesForSale - MrMoonlight.mid
+... Drums
+... Bass
+... Vocals
+... Vocals2
+... Organ
+... Lead
+... Rhythm
+BeatlesForSale - NoReply.mid
+... Drums
+... Bass
+... Vocals
+... Vocals2
+... Rhythm
+BeatlesForSale - RockAndRollMusic.mid
+... Drums
+... Bass
+... Vocals
+... Piano
+... Rhythm
+BeatlesForSale - WhatYoureDoing.mid
+... Drums
+... Bass
+... Vocals
+... Lead
+... Rhythm
+... Piano
+... Vocals2
+BeatlesForSale - WordsOfLove.mid
+... Drums
+... Bass
+... Vocals
+... Vocals2
+... Rhythm
+BeatlesForSale - IDontWantToSpoilTheParty.mid
+... Drums
+... VocalsAll
+... Rhythm
+... Lead
+... Bass
+... Vocals2
+... Vocals3
+AHardDaysNight - AndILoveHer.mid
+... Lead
+... Rhythm
+... Bass
+... Vocals
+... Drums
+AHardDaysNight - AnytimeAtAll.mid
+... Drums
+... Vocals
+... Piano
+... Lead
+... Rhythm
+... Bass
+AHardDaysNight - CantBuyMeLove.mid
+... Drums
+... Bass
+... Vocals
+... Lead
+... Rhythm
+AHardDaysNight - IfIFell.mid
+... Drums
+... Vocals
+... Vocals2
+... Lead
+... Rhythm
+... Bass
+AHardDaysNight - IllBeBack.mid
+... Drums
+... Vocals
+... Lead
+... Rhythm
+... Bass
+AHardDaysNight - IllCryInstead.mid
+... Drums
+... Bass
+... Vocals
+... Lead
+... Rhythm
+AHardDaysNight - ImHappyJustToDanceWithYou.mid
+... Drums
+... Bass
+... Vocals
+... Vocals2
+... Vocals3
+... Vocals4
+... Lead
+... Rhythm
+AHardDaysNight - IShouldHaveKnownBetter.mid
+... Drums
+... Bass
+... Harmonica
+... Vocals
+... Lead
+... Rhythm
+AHardDaysNight - TellMeWhy.mid
+... Drums
+... Bass
+... Vocals
+... Vocals2
+... Piano
+... Rhythm
+... Lead
+AHardDaysNight - ThingsWeSaidToday.mid
+... Drums
+... VocalsAll
+... Lead
+... Rhythm
+... Bass
+... Piano
+AHardDaysNight - WhenIGetHome.mid
+... Drums
+... Vocals
+... Vocals2
+... Bass
+... Lead
+... Rhythm
+... Vocals3
+... Vocals4
+... Vocals5
+... Vocals6
+AHardDaysNight - YouCantDoThat.mid
+... Drums
+... VocalsAll
+... Bass
+... Lead
+... Vocals2
+... Vocals3
+... Rhythm
+... Lead2
+AHardDaysNight - AHardDaysNight.mid
+... Drums
+... VocalsAll
+... Lead
+... Rhythm
+... Bass
+Help - ActNaturally.mid
+... Drums
+... VocalsAll
+... Lead
+... Rhythm
+... Bass
+Help - DizzyMissLizzy.mid
+... Drums
+... Bass
+... Vocals
+... Lead
+... Rhythm
+... Organ
+Help - Help.mid
+... Drums
+... Bass
+... Vocals
+... Vocals2
+... Vocals3
+... Lead
+... Rhythm
+Help - YouveGotToHideYourLoveAway.mid
+... Vocals
+... Flute
+... Rhythm
+... Bass
+... Lead
+... Drums
+Help - INeedYou.mid
+... Drums
+... Bass
+... Vocals
+... Vocals2
+... Vocals3
+... Vocals4
+... Rhythm
+... Lead
+Help - ItsOnlyLove.mid
+... Drums
+... Bass
+... Vocals
+... Vocals2
+... Lead2
+... Rhythm
+... Lead
+Help - YoureGoingToLoseThatGirl.mid
+... Drums
+... Vocals
+... Rhythm
+... Bass
+Help - TheNightBefore.mid
+... Drums
+... Rhythm
+... Lead
+... Bass
+... Vocals
+... Lead2
+... Vocals2
+... Vocals3
+Help - IveJustSeenAFace.mid
+... Drums
+... VocalsAll
+... Lead
+... Rhythm
+... Bass
+... Lead2
+... Lead3
+Help - TicketToRide.mid
+... Drums
+... VocalsAll
+... Vocals2
+... Rhythm
+... Lead
+... Lead2
+... Bass
+Help - YouLikeMeTooMuch.mid
+... Drums
+... Bass
+... VocalsAll
+... Piano
+... Piano2
+... Lead
+... Rhythm
+Help - TellMeWhatYouSee.mid
+... Drums
+... Bass
+... Vocals
+... Vocals2
+... Vocals3
+... Piano
+... Rhythm
+... Lead
+Help - Yesterday.mid
+... Rhythm
+... Vocals
+... Strings
+... Strings2
+... Strings3
+... Bass
+Help - AnotherGirl.mid
+... Drums
+... Vocals
+... Bass
+... Vocals2
+... Vocals3
+... Lead2
+... Lead
+... Rhythm
+LetItBe - TwoOfUs.mid
+... Bass
+... Vocals2
+... Vocals
+... Lead
+... Rhythm
+... Drums
+LetItBe - OneAfter909.mid
+... Drums
+... Bass
+... Vocals2
+... Vocals
+... Lead
+... Rhythm
+... Piano
+LetItBe - AcrossTheUniverse.mid
+... Drums
+... Bass
+... Rhythm
+... Strings
+... Strings2
+... Vocals2
+... Vocals
+LetItBe - IDigAPony.mid
+... Drums
+... Bass
+... Vocals
+... Vocals2
+... Lead
+... Rhythm
+LetItBe - DigIt.mid
+... Drums
+... Bass
+... Organ
+... Piano
+... Rhythm
+... Vocals
+LetItBe - ForYouBlue.mid
+... Drums
+... Bass
+... Vocals
+... Piano
+... Lead
+... Rhythm
+LetItBe - GetBack.mid
+... Vocals
+... Bass
+... Rhythm
+... Lead
+... Piano
+... Drums
+LetItBe - IMeMine.mid
+... Drums
+... Rhythm
+... Bass
+... Vocals
+... Vocals2
+... Vocals3
+... Organ
+... Lead
+LetItBe - IveGotAFeeling.mid
+... Drums
+... Bass
+... Vocals
+... Vocals2
+... Rhythm
+... Piano
+... Lead
+LetItBe - TheLongAndWindingRoad.mid
+... Drums
+... Bass
+... Vocals
+... Rhythm
+... Strings
+... Strings2
+... Vocals2
+... Brass
+... Brass2
+... Brass3
+... Brass4
+LetItBe - MaggieMae.mid
+... Drums
+... Bass
+... Vocals2
+... Vocals
+... Rhythm
+... Lead
+LetItBe - LetItBe.mid
+... Drums
+... Brass
+... Organ
+... Rhythm
+... Piano
+... Lead
+... Vocals
+... Bass
+MagicalMysteryTour - AllYouNeedIsLove.mid
+... Drums
+... Bass
+... Vocals
+... Brass
+... Brass2
+... Brass3
+... Brass4
+... Strings
+... Strings2
+... Harpsichord
+... Lead
+... Vocals2
+... Vocals3
+... Rhythm
+... Vocals4
+MagicalMysteryTour - BabyYoureARichMan.mid
+... Drums
+... Bass
+... Vocals
+... Vocals2
+... Strings
+... Lead
+... Rhythm
+... Piano
+MagicalMysteryTour - BlueJayWay.mid
+... Drums
+... Bass
+... Vocals
+... Rhythm
+... Lead
+... Vocals2
+... Vocals3
+MagicalMysteryTour - Flying.mid
+... Drums
+... Bass
+... Rhythm
+... Lead
+... Organ
+... Vocals
+... Synth
+... Vocals2
+MagicalMysteryTour - TheFoolOnTheHill.mid
+... Drums
+... Lead
+... Rhythm
+... Brass
+... Harmonica
+... Bass
+... Vocals
+MagicalMysteryTour - PennyLane.mid
+... Bass
+... Rhythm
+... Brass
+... Vocals
+... Brass2
+... Brass3
+... Brass4
+... Drums
+MagicalMysteryTour - StrawberryFieldsForever.mid
+... Drums
+... Sitar
+... Bass
+... Vocals
+... Lead2
+... Strings
+... Rhythm
+... Lead
+... Brass
+... Piano
+MagicalMysteryTour - IAmTheWalrus.mid
+... Drums
+... Bass
+... Vocals
+... Rhythm
+... Strings
+... Lead
+... Brass
+... Synth
+... Vocals2
+... Vocals3
+MagicalMysteryTour - YourMotherShouldKnow.mid
+... Drums
+... Bass
+... Rhythm
+... Leads
+... Vocals
+... Vocals2
+... Vocals3
+... Vocals4
+... Vocals5
+... Vocals6
+... Vocals7
+... Rhythm2
+MagicalMysteryTour - HelloGoodbye.mid
+... Drums
+... Bass
+... Organ
+... Vocals
+... Strings
+... Rhythm
+... Vocals2
+... Vocals3
+... Lead
+MagicalMysteryTour - MagicalMysteryTour.mid
+... Drums
+... Bass
+... Vocals2
+... Vocals3
+... Vocals
+... Vocals4
+... Brass
+... Rhythm
+... Lead
+... Rhythm2
+... Vocals5
+Revolver - AndYourBirdCanSing.mid
+... Drums
+... Bass
+... Vocals
+... Vocals2
+... Vocals3
+... Lead
+... Rhythm
+Revolver - DrRobert.mid
+... Drums
+... Organ
+... Bass
+... Vocals
+... Vocals2
+... Rhythm
+... Lead
+Revolver - EleanorRigby.mid
+... Vocals
+... Vocals2
+... Strings2
+... Strings3
+... Strings4
+... Strings5
+... Strings
+Revolver - ForNoOne.mid
+... Drums
+... Brass
+... Rhythm
+... Bass
+... Vocals
+Revolver - GoodDaySunshine.mid
+... Drums
+... Bass
+... Vocals
+... Vocals2
+... Vocals3
+... Rhythm
+... Rhythm
+... Lead
+Revolver - GotToGetYouIntoMyLife.mid
+... Drums
+... Vocals
+... Bass
+... Rhythm
+... Lead
+Revolver - HereThereAndEverywhere.mid
+... Drums
+... Vocals
+... Brass
+... Vocals2
+... Vocals3
+... Vocals4
+... Rhythm
+... Lead
+... Bass
+Revolver - ImOnlySleeping.mid
+... Drums
+... Bass
+... Vocals
+... Rhythm
+... Lead
+... Vocals2
+... Vocals3
+Revolver - IWantToTellYou.mid
+... Drums
+... Bass
+... Vocals
+... Vocals2
+... Vocals3
+... Lead
+... Rhythm
+... Vocals4
+Revolver - LoveYouTo.mid
+... Drums
+... Lead
+... Rhythm
+... Vocals
+... Lead2
+Revolver - SheSaidSheSaid.mid
+... Drums
+... Bass
+... Vocals
+... Vocals2
+... Lead
+... Organ
+... Rhythm
+Revolver - Taxman.mid
+... Drums
+... Bass
+... Vocals
+... Lead
+... Vocals2
+... Vocals3
+... Rhythm
+Revolver - TomorrowNeverKnows.mid
+... Drums
+... Bass
+... Vocals
+... Organ
+... Lead
+... Rhythm
+... Lead2
+Revolver - YellowSubmarine.mid
+... Drums
+... Brass
+... Brass2
+... Brass3
+... Brass4
+... Bass
+... Vocals
+... Vocals2
+... Rhythm
+RubberSoul - DriveMyCar.mid
+... Drums
+... Lead
+... Lead2
+... Bass
+... Piano
+... Vocals
+... Vocals2
+... Vocals3
+... Organ
+... Rhythm
+RubberSoul - Girl.mid
+... Bass
+... Lead
+... Vocals2
+... Vocals3
+... Rhythm
+... Vocals
+... Drums
+RubberSoul - IfINeededSomeone.mid
+... Drums
+... Bass
+... Vocals
+... Vocals2
+... Vocals3
+... Lead
+... Vocals4
+... Vocals5
+... Vocals6
+... Rhythm
+RubberSoul - ImLookingThroughYou.mid
+... Drums
+... Bass
+... Vocals
+... Vocals2
+... Lead
+... Lead2
+... Rhythm
+RubberSoul - InMyLife.mid
+... Drums
+... VocalsAll
+... Bass
+... Lead
+... Rhythm
+... Piano
+... Vocals2
+RubberSoul - Michelle.mid
+... Bass
+... Lead
+... Rhythm
+... Lead2
+... Vocals2
+... Vocals3
+... Vocals4
+... Vocals
+... Drums
+RubberSoul - NorwegianWood.mid
+... Bass
+... Vocals
+... Vocals2
+... Lead
+... Lead2
+... Rhythm
+... Drums
+RubberSoul - NowhereMan.mid
+... Drums
+... Bass
+... Vocals
+... Lead
+... Vocals2
+... Vocals3
+... Vocals4
+... Vocals5
+... Rhythm
+RubberSoul - RunForYourLife.mid
+... Drums
+... Vocals
+... Vocals2
+... Vocals3
+... Lead
+... Lead2
+... Rhythm
+... Bass
+RubberSoul - TheWord.mid
+... Drums
+... Bass
+... Rhythm
+... Lead
+... Vocals
+... Vocals2
+... Vocals3
+... Organ
+RubberSoul - ThinkForYourself.mid
+... Drums
+... Bass
+... Vocals
+... Vocals2
+... Vocals3
+... Lead
+... Piano
+... Rhythm
+RubberSoul - Wait.mid
+... Drums
+... Bass
+... Vocals
+... Vocals2
+... Lead
+... Rhythm
+RubberSoul - WhatGoesOn.mid
+... Drums
+... Bass
+... Vocals
+... Vocals2
+... Vocals3
+... Lead
+... Rhythm
+RubberSoul - YouWontSeeMe.mid
+... Drums
+... Rhythm
+... Bass
+... Lead
+... Vocals
+... Vocals2
+... Vocals3
+... Vocals4
+WithTheBeatles - AllMyLoving.mid
+... Bass
+... Vocals
+... Vocals2
+... Lead
+... Rhythm
+... Vocals3
+... Vocals4
+... Vocals5
+... Drums
+WithTheBeatles - DevilInHerHeart.mid
+... Drums
+... Bass
+... Vocals
+... Vocals2
+... Vocals3
+... Lead
+... Rhythm
+WithTheBeatles - DontBotherMe.mid
+... Drums
+... Bass
+... Vocals
+... Lead
+... Rhythm
+WithTheBeatles - HoldMeTight.mid
+... Drums
+... Bass
+... Vocals
+... Vocals2
+... Lead
+... Vocals3
+... Vocals4
+... Rhythm
+WithTheBeatles - ItWontBeLong.mid
+... Drums
+... Bass
+... Vocals
+... Vocals2
+... Vocals2
+... Vocals3
+... Vocals3
+... Lead
+... Rhythm
+WithTheBeatles - IWannaBeYourMan.mid
+... Drums
+... Bass
+... Vocals
+... Vocals2
+... Lead
+... Piano
+... Rhythm
+WithTheBeatles - LittleChild.mid
+... Drums
+... Lead
+... Bass
+... Vocals
+... Vocals2
+... Piano
+... Rhythm
+WithTheBeatles - Money.mid
+... Drums
+... Bass
+... Vocals
+... Vocals2
+... Vocals3
+... Vocals4
+... Lead
+... Lead2
+... Rhythm
+WithTheBeatles - PleaseMrPostman.mid
+... Drums
+... Bass
+... Vocals
+... Vocals2
+... Vocals3
+... Rhythm
+WithTheBeatles - NotASecondTime.mid
+... Drums
+... Bass
+... Vocals
+... Piano
+... Vocals2
+... Lead
+... Rhythm
+WithTheBeatles - RollOverBeethoven.mid
+... Drums
+... Lead
+... Bass
+... Vocals
+... Rhythm
+WithTheBeatles - TillThereWasYou.mid
+... Drums
+... Bass
+... Vocals
+... Lead
+... Rhythm
+WithTheBeatles - YouReallyGotAHoldOnMe.mid
+... Bass
+... Lead
+... Vocals
+... Vocals2
+... Vocals3
+... Piano
+... Rhythm
+... Drums
+WithTheBeatles - AllIveGotToDo.mid
+... Drums
+... Vocals
+... Vocals2
+... Bass
+... Vocals3
+... Vocals4
+... Lead
+... Rhythm
+Singles - WeCanWorkItOut.mid
+... Drums
+... Vocals
+... Vocals2
+... Bass
+... Accordian
+... Rhythm
+Singles - AllTogetherNow.mid
+... Drums
+... Bass
+... Vocals
+... Vocals2
+... Vocals3
+... Harmonica
+... Rhythm
+... Rhythm2
+Singles - BadBoy.mid
+... Drums
+... Bass
+... Vocals
+... Lead
+... Rhythm
+... Piano
+Singles - DayTripper.mid
+... Drums
+... Organ
+... Lead
+... Rhythm
+... Lead2
+... Bass
+... Vocals
+... Vocals2
+... Vocals3
+Singles - DontLetMeDown.mid
+... Drums
+... Vocals
+... Lead
+... Piano
+... Rhythm
+... Bass
+Singles - FromMeToYou.mid
+... Drums
+... Bass
+... VocalsAll
+... Lead
+... Harmonica
+... Rhythm
+Singles - HeyJude.mid
+... Drums
+... Vocals
+... Bass
+... Vocals2
+... Vocals3
+... Vocals4
+... Lead
+... Brass
+... Brass2
+... Strings
+... Strings2
+... Strings3
+... Rhythm2
+... Rhythm
+Singles - HeyBulldog.mid
+... Drums
+... Bass
+... Vocals
+... Vocals2
+... Rhythm
+... Lead
+Singles - IWantToHoldYourHand.mid
+... Vocals
+... Vocals2
+... Lead
+... Lead2
+... Rhythm
+... Bass
+... Drums
+Singles - ICallYourName.mid
+... Drums
+... Bass
+... Vocals
+... Lead
+... Rhythm
+Singles - IFeelFine.mid
+... Drums
+... VocalsAll
+... Lead
+... Rhythm
+... Vocals2
+... Vocals3
+... Bass
+Singles - IllGetYou.mid
+... VocalsAll
+... Bass
+... Harmonica
+... Rhythm
+... Drums
+Singles - TheBalladOfJohnAndYoko.mid
+... Drums
+... Drums2
+... Bass
+... Vocals
+... Vocals2
+... Lead
+... Rhythm
+... Piano
+Singles - LadyMadonna.mid
+... Drums
+... Bass
+... Rhythm
+... Vocals
+... Brass
+... Lead
+... Vocals2
+... Vocals3
+... Brass2
+... Brass3
+... Vocals4
+Singles - LongTallSally.mid
+... Drums
+... Bass
+... Vocals
+... Lead
+... Rhythm
+... Lead2
+... Piano
+Singles - Matchbox.mid
+... Drums
+... Bass
+... Vocals
+... Piano
+... Lead
+... Rhythm
+Singles - OldBrownShoe.mid
+... Drums
+... Lead
+... Rhythm
+... Vocals
+... Organ
+... Bass
+Singles - OnlyANorthernSong.mid
+... Drums
+... Bass
+... Vocals
+... Rhythm
+... Organ
+... Brass
+... Piano
+Singles - PaperbackWriter.mid
+... Drums
+... Vocals
+... Vocals2
+... Vocals3
+... Vocals4
+... Vocals5
+... Vocals6
+... Lead
+... Rhythm
+... Bass
+Singles - Rain.mid
+... Drums
+... Bass
+... Vocals
+... Vocals2
+... Vocals3
+... Rhythm
+Singles - Revolution.mid
+... Drums
+... Bass
+... Vocals
+... Vocals2
+... Lead
+... Lead2
+... Rhythm
+Singles - ShesAWoman.mid
+... Drums
+... Bass
+... Vocals
+... Piano
+... Rhythm
+... Lead
+Singles - SlowDown.mid
+... Drums
+... Bass
+... Vocals
+... Lead
+... Lead2
+... Rhythm2
+... Rhythm
+Singles - ThisBoy.mid
+... Drums
+... Bass
+... Vocals
+... Vocals2
+... Vocals3
+... Vocals4
+... Vocals5
+... Rhythm
+... Lead
+Singles - ThankYouGirl.mid
+... Drums
+... Harmonica
+... Vocals
+... Vocals2
+... Bass
+... Lead
+... Rhythm
+Singles - YesItIs.mid
+... Drums
+... Bass
+... Vocals
+... Vocals2
+... Vocals3
+... Rhythm
+... Vocals4
+... Vocals5
+... Lead
+Singles - YouKnowMyName.mid
+... Drums
+... Drums
+... Bass
+... Rhythm
+... Vocals
+... Vocals2
+... Brass
+... Rhythm2
+Singles - ImDown.mid
+... Drums
+... Bass
+... Vocals
+... Rhythm
+... Lead
+... Organ
+... Vocals2
+... Vocals3
+... Vocals4
+... Vocals5
+Singles - SheLovesYou.mid
+... Drums
+... VocalsAll
+... Vocals2
+... Vocals3
+... Bass
+... Lead
+... Lead
+... Rhythm
+WhiteAlbum - BackInTheUSSR.mid
+... Drums
+... Vocals
+... Rhythm
+... Lead
+... Vocals2
+... Vocals3
+... Bass
+... Piano
+WhiteAlbum - Blackbird.mid
+... Rhythm
+... Vocals
+... Drums
+WhiteAlbum - TheContinuingStoryOfBungalowBill.mid
+... Drums
+... Bass
+... Vocals
+... Vocals2
+... Vocals3
+... Lead
+... Rhythm
+... Brass
+WhiteAlbum - CryBabyCry.mid
+... Drums
+... Bass
+... Vocals
+... Vocals2
+... Vocals3
+... Lead
+... Rhythm
+... Accordian
+... Lead2
+WhiteAlbum - DontPassMeBy.mid
+... Drums
+... Bass
+... Vocals
+... Rhythm
+... Lead
+WhiteAlbum - DearPrudence.mid
+... Drums
+... Bass
+... Vocals
+... Lead
+... Vocals2
+... Vocals3
+... Piano
+... Lead2
+... Rhythm
+WhiteAlbum - GlassOnion.mid
+... Drums
+... Drums2
+... Lead
+... Strings
+... Strings2
+... Strings3
+... Strings4
+... Strings5
+... Vocals
+... Bass
+... Piano
+... Rhythm
+... Brass
+WhiteAlbum - HappinessIsAWarmGun.mid
+... Drums
+... Bass
+... Vocals
+... Vocals2
+... Vocals3
+... Vocals4
+... Vocals5
+... Vocals6
+... Vocals7
+... Rhythm
+... Lead
+WhiteAlbum - HelterSkelter.mid
+... Drums
+... Bass
+... Vocals
+... Vocals2
+... Rhythm
+... Lead
+... Lead2
+WhiteAlbum - HoneyPie.mid
+... Vocals
+... Rhythm
+... Bass
+... Lead
+... Brass
+... Brass2
+... Brass3
+... Brass4
+... Brass5
+... Drums
+WhiteAlbum - ImSoTired.mid
+... Drums
+... Bass
+... Vocals
+... Vocals2
+... Rhythm
+... Lead
+... Piano
+... Organ
+WhiteAlbum - IWill.mid
+... Drums
+... Vocals
+... Lead
+... Rhythm
+... Bass
+... Vocals2
+WhiteAlbum - MarthaMyDear.mid
+... Drums
+... Brass
+... Brass2
+... Brass3
+... Strings
+... Vocals
+... Bass
+... Rhythm
+... Strings
+... Lead
+WhiteAlbum - EverybodysGotSomethingToHideExceptMeAndMyMonkey.mid
+... Drums
+... Drums2
+... Bass
+... Vocals
+... Vocals2
+... Rhythm
+... Lead
+WhiteAlbum - MotherNaturesSon.mid
+... Vocals
+... Vocals2
+... Brass
+... Brass2
+... Brass3
+... Brass4
+... Brass5
+... Rhythm
+... Lead
+... Drums
+WhiteAlbum - ObLaDiObLaDa.mid
+... Drums
+... Vocals
+... Rhythm
+... Rhythm2
+... Lead
+... Vocals2
+... Bass
+WhiteAlbum - Piggies.mid
+... Drums
+... Bass
+... Vocals
+... Vocals2
+... Lead
+... Rhythm
+... Strings
+... Strings2
+WhiteAlbum - Revolution1.mid
+... Drums
+... Bass
+... Vocals
+... Vocals2
+... Vocals3
+... Vocals4
+... Vocals5
+... Rhythm
+... Lead
+... Brass
+... Brass2
+... Rhythm2
+... Lead2
+WhiteAlbum - RockyRacoon.mid
+... Drums
+... Bass
+... Vocals
+... Lead
+... Lead2
+... Accordian
+... Vocals2
+... Vocals3
+... Rhythm
+WhiteAlbum - SavoyTruffle.mid
+... Drums
+... Bass
+... Vocals
+... Vocals2
+... Rhythm2
+... Lead2
+... Lead
+... Rhythm
+... Lead3
+WhiteAlbum - SexySadie.mid
+... Drums
+... Bass
+... Vocals
+... Vocals2
+... Vocals3
+... Organ
+... Lead
+... Rhythm
+WhiteAlbum - WhileMyGuitarGentlyWeeps.mid
+... Drums
+... Bass
+... Piano
+... Organ
+... Lead
+... Vocals
+... Vocals2
+... Rhythm
+WhiteAlbum - WhyDontWeDoItInTheRoad.mid
+... Drums
+... Bass
+... Vocals
+... Lead
+... Rhythm
+WhiteAlbum - WildHoneyPie.mid
+... Drums
+... Vocals
+... Vocals2
+... Vocals3
+... Lead
+... Rhythm
+... Lead2
+WhiteAlbum - YerBlues.mid
+... Drums
+... Bass
+... Vocals
+... Vocals2
+... Lead
+... Rhythm
+WhiteAlbum - Birthday.mid
+... Drums
+... Lead
+... Lead2
+... Bass
+... Piano
+... Organ
+... Vocals
+... Vocals3
+... Vocals2
+WhiteAlbum - Julia.mid
+... Rhythm
+... Vocals
+WhiteAlbum - LongLongLong.mid
+... Drums
+... Piano
+... Rhythm
+... Bass
+... Vocals
+... Vocals2
+... Vocals3
+... Vocals4
+... Lead
+SgtPepper - ADayInTheLife.mid
+... Drums
+... Strings
+... Brass
+... Bass
+... Vocals
+... Vocals2
+... Rhythm
+... Rhythm2
+SgtPepper - BeingForTheBenefitOfMrKite.mid
+... Drums
+... Rhythm
+... Accordian
+... Synth2
+... Synth
+... Lead2
+... Bass
+... Vocals
+... Vocals2
+... Lead
+SgtPepper - FixingaHole.mid
+... Drums
+... Bass
+... Vocals
+... Lead
+... Rhythm
+... Vocals2
+... Vocals3
+SgtPepper - GettingBetter.mid
+... Drums
+... VocalsAll
+... Bass
+... Rhythm
+... Vocals2
+... Vocals3
+... Lead
+... Lead2
+... Sitar
+... Piano
+SgtPepper - LucyInTheSkyWithDiamonds.mid
+... Drums
+... Bass
+... Organ
+... Vocals
+... Vocals2
+... Lead
+... Vocals3
+... Rhythm
+SgtPepper - LovelyRita.mid
+... Drums
+... Bass
+... Vocals
+... Lead
+... Rhythm
+... Vocals2
+... Vocals3
+... Vocals4
+... Vocals5
+... Vocals6
+SgtPepper - SgtPepperReprise.mid
+... Drums
+... Drums2
+... Bass
+... Vocals
+... Vocals2
+... Vocals3
+... Rhythm
+... Lead
+SgtPepper - ShesLeavingHome.mid
+... Vocals
+... Vocals2
+... Rhythm
+... Strings
+... Strings2
+... Strings3
+... Strings4
+... Strings5
+... Strings6
+SgtPepper - WithALittleHelpFromMyFriends.mid
+... Drums
+... Bass
+... Vocals
+... Vocals2
+... Vocals2
+... Vocals3
+... Rhythm
+... Lead
+... Lead2
+SgtPepper - WhenImSixtyFour.mid
+... Vocals
+... Bass
+... Rhythm
+... Bells
+... Vocals2
+... Piano
+... Lead
+... Drums
+SgtPepper - SgtPepper.mid
+... Drums
+... Bass
+... Brass
+... Brass2
+... Brass3
+... Brass4
+... Vocals
+... Vocals2
+... Vocals3
+... Lead
+... Rhythm
+Track count: 199
